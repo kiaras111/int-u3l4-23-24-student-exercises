@@ -23,11 +23,13 @@ let image = document.querySelector('.image');
 
 contentButton.addEventListener('click', function() {
 
+myName.innerHTML="My name is Kekee";
+  myHobby.innerHTML="i like to work to make money";
+
+  image1Button.src= "https://s.yimg.com/ny/api/res/1.2/lopKq61GgKpHTuro2SkGag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTk2MQ--/https://media.zenfs.com/en/hypebae_340/005d624b683af9baa5d785d7dfed2295";
 
 
-
-
-
+image2Button.src= "https://i.pinimg.com/originals/c9/"
 });
 
 // 3. Add an event listener to the `image1Button`
